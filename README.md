@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/w69w8wy14pl7ykjc?svg=true)](https://ci.appveyor.com/project/vergsparda/ahj-code)
+[![Build status](https://ci.appveyor.com/api/projects/status/pas0gt7d523xvdsv?svg=true)](https://ci.appveyor.com/project/vergsparda/ajs-env)
 
 # Webpack5
 
